@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "update 0.0.0.0"
+git remote add origin https://github.com/galazzo/QAzure
+git push origin master 
+git pull origin master
